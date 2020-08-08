@@ -1,4 +1,6 @@
-# audioguide-ar
-"Don't you wander sometimes
-'Bout Sound and Vision?"
-David Bowie, 1977
+# Audio Guide AR
+Audio Augmented Reality (AAR) navigation for the blind.
+
+*"Don't you wander sometimes
+'bout Sound and Vision?"
+David Bowie, 1977*
