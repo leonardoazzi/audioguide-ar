@@ -1,4 +1,4 @@
-# Audio Guide AR
+# Sound+Vision AR
 Audio Augmented Reality (AAR) navigation for the blind.
 
 *"Don't you wander sometimes
